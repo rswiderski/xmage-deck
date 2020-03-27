@@ -1,0 +1,83 @@
+NAME:C18-Adaptive Enchantment
+1 [M14:2] Ajani's Chosen
+1 [BNG:32] Archetype of Imagination
+1 [C18:38] Arixmethes, Slumbering Isle
+1 [ROE:175] Aura Gnarlid
+1 [DIS:170] Azorius Chancery
+1 [ALA:155] Bant Charm
+1 [ROE:177] Bear Umbra
+1 [M20:243] Blossoming Sands
+1 [THS:152] Boon Satyr
+1 [AVR:208] Bruna, Light of Alabaster
+1 [THS:3] Celestial Archon
+1 [EVE:149] Cold-Eyed Selkie
+1 [ELD:333] Command Tower
+1 [ISD:174] Creeping Renaissance
+1 [5DN:85] Dawn's Reflection
+1 [THS:191] Daxos of Meletis
+1 [JOU:37] Dictate of Kruphix
+1 [INV:14] Dismantling Blow
+1 [ROE:65] Eel Umbra
+1 [JOU:122] Eidolon of Blossoms
+1 [C18:177] Elderwood Scion
+1 [C18:2] Empyrial Storm
+1 [ONS:261] Enchantress's Presence
+1 [LRW:209] Epic Proportions
+1 [C18:8] Estrid's Invocation
+1 [C18:9] Ever-Watching Threshold
+1 [M20:246] Evolving Wilds
+1 [LRW:211] Fertile Ground
+1 [ARB:126] Finest Hour
+8 [THB:254] Forest
+1 [C18:58] Forge of Heroes
+1 [C18:30] Genesis Storm
+1 [M13:176] Ground Seal
+1 [C18:3] Heavenly Blademaster
+1 [ORI:180] Herald of the Pantheon
+1 [C18:153] Hydra Omnivore
+6 [THB:251] Island
+1 [C18:42] Kestia, the Cultivator
+1 [JUD:141] Krosan Verge
+1 [JOU:129] Kruphix's Insight
+1 [C18:10] Loyal Drake
+1 [C18:31] Loyal Guardian
+1 [C18:4] Loyal Unicorn
+1 [CON:11] Martial Coup
+1 [M19:253] Meandering River
+1 [LRW:270] Mosswort Bridge
+1 [C18:32] Myth Unbound
+1 [C18:33] Nylea's Colossus
+1 [C18:11] Octopus Umbra
+1 [10E:283] Overgrowth
+1 [MBS:15] Phyrexian Rebirth
+9 [THB:250] Plains
+1 [C18:34] Ravenous Slime
+1 [M19:196] Reclamation Sage
+1 [RTR:189] Righteous Authority
+1 [FRF:23] Sage's Reverie
+1 [ALA:229] Seaside Citadel
+1 [RAV:281] Selesnya Sanctuary
+1 [ORI:31] Sigil of the Empty Throne
+1 [BNG:26] Silent Sentinel
+1 [DIS:180] Simic Growth Chamber
+1 [ROE:207] Snake Umbra
+1 [3ED:274] Sol Ring
+1 [C18:76] Soul Snare
+1 [C18:163] Spawning Grounds
+1 [M11:229] Terramorphic Expanse
+1 [ELD:313] Thornwood Falls
+1 [M20:259] Tranquil Cove
+1 [M19:259] Tranquil Expanse
+1 [C18:47] Tuvasa the Sunlit
+1 [DGM:111] Unflinching Courage
+1 [JUD:31] Unquestioned Authority
+1 [C18:110] Vow of Flight
+1 [C18:164] Vow of Wildness
+1 [JOU:58] Whitewater Naiads
+1 [7ED:282] Wild Growth
+1 [TMP:52] Winds of Rath
+1 [M19:260] Woodland Stream
+1 [10E:310] Yavimaya Enchantress
+SB: 1 [C18:40] Estrid, the Masked
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,50)|([3ED:274])([BNG:32],[THS:152],[THS:3],[JOU:122],[C18:42],[C18:33],[JOU:58])([M14:2],[C18:38],[ROE:175],[AVR:208],[EVE:149],[THS:191],[C18:177],[C18:3],[ORI:180],[C18:153],[C18:10],[C18:31],[C18:4],[C18:34],[M19:196],[BNG:26],[C18:47],[10E:310])([ROE:177],[5DN:85],[JOU:37],[ROE:65],[ONS:261],[LRW:209],[C18:8],[C18:9],[LRW:211],[ARB:126],[M13:176],[C18:32],[C18:11],[10E:283],[RTR:189],[FRF:23],[ORI:31],[ROE:207],[C18:76],[C18:163],[DGM:111],[JUD:31],[C18:110],[C18:164],[7ED:282])([ALA:155],[INV:14])([DIS:170],[M20:243],[ELD:333],[M20:246],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[C18:58],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[JUD:141],[M19:253],[LRW:270],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[ALA:229],[RAV:281],[DIS:180],[M11:229],[ELD:313],[M20:259],[M19:259],[M19:260])([ISD:174],[C18:2],[C18:30],[JOU:129],[CON:11],[MBS:15],[TMP:52])
+LAYOUT SIDEBOARD:(2,1)(COLOR,true,50)|()([C18:40])

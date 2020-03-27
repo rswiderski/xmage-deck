@@ -1,0 +1,89 @@
+NAME:C19-Faceless Menace
+1 [C19:227] Ash Barrens
+1 [LGN:60] Bane of the Living
+1 [GTC:213] Biomass Mutation
+1 [WWK:132] Bojuka Bog
+1 [AKH:196] Bounty of the Luxa
+1 [LGN:32] Chromeshell Crab
+1 [ELD:333] Command Tower
+1 [M11:168] Cultivate
+1 [ODY:319] Darkwater Catacombs
+1 [DTK:180] Deathmist Raptor
+1 [DTK:181] Den Protector
+1 [RAV:276] Dimir Aqueduct
+1 [DST:21] Echoing Truth
+1 [M20:246] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [WWK:99] Explore
+1 [M13:170] Farseek
+7 [THB:254] Forest
+1 [M19:251] Foul Orchard
+1 [FRF:70] Ghastly Conscription
+1 [C19:17] Gift of Doom
+1 [GRN:248] Golgari Guildgate
+1 [RAV:278] Golgari Rot Farm
+1 [C19:170] Great Oak Guardian
+1 [KTK:73] Grim Haruspex
+1 [C19:44] Grismold, the Dreadsower
+1 [RAV:89] Hex
+1 [KTK:136] Hooded Hydra
+1 [KTK:178] Icefeather Aven
+5 [THB:251] Island
+1 [TSP:65] Ixidron
+1 [M20:248] Jungle Hollow
+1 [C19:8] Kadena's Silencer
+1 [KTK:45] Kheru Spellsnatcher
+1 [C19:9] Leadership Vacuum
+1 [ORI:248] Llanowar Wastes
+1 [C19:19] Mire in Misery
+1 [C19:261] Myriad Landscape
+1 [LGN:132] Nantuko Vigilante
+1 [KTK:238] Opulent Palace
+1 [M11:189] Overwhelming Stampede
+1 [C19:56] Pendant of Prosperity
+1 [DGM:93] Putrefy
+1 [C19:48] Rayami, First of the Fallen
+1 [FRF:46] Reality Shift
+1 [M19:254] Reliquary Tower
+1 [C19:34] Road of Return
+1 [KTK:196] Sagu Mauler
+1 [CHK:239] Sakura-Tribe Elder
+1 [C19:57] Scaretiller
+1 [C19:58] Scroll of Fate
+1 [KTK:198] Secret Plans
+1 [10E:296] Seedborn Muse
+1 [BFZ:245] Shrine of the Forsaken Gods
+1 [DTK:121] Silumgar Assassin
+1 [DIS:180] Simic Growth Chamber
+1 [WAR:274] Simic Guildgate
+1 [LGN:80] Skinthinner
+1 [3ED:274] Sol Ring
+1 [DTK:80] Stratus Dancer
+1 [M14:224] Strionic Resonator
+1 [C19:11] Sudden Substitution
+1 [KTK:204] Sultai Charm
+1 [BFZ:249] Sunken Hollow
+3 [THB:252] Swamp
+1 [SCG:143] Temple of the False God
+1 [C19:183] Tempt with Discovery
+1 [M11:229] Terramorphic Expanse
+1 [NPH:47] Tezzeret's Gambit
+1 [TSP:228] Thelonite Hermit
+1 [GTC:248] Thespian's Stage
+1 [C19:21] Thieving Amalgam
+1 [ELD:313] Thornwood Falls
+1 [C19:12] Thought Sponge
+1 [KTK:58] Thousand Winds
+1 [UDS:139] Thran Dynamo
+1 [KTK:154] Trail of Mystery
+1 [GTC:204] Urban Evolution
+1 [TSP:90] Vesuvan Shapeshifter
+1 [C19:36] Voice of Many
+1 [C19:51] Volrath, the Shapestealer
+1 [RTR:208] Vraska the Unseen
+1 [TSB:36] Willbender
+1 [M19:260] Woodland Stream
+1 [ORI:252] Yavimaya Coast
+SB: 1 [C19:45] Kadena, Slinking Sorcerer
+LAYOUT MAIN:(1,8)(CARD_TYPE,false,50)|([C19:57])([C19:56],[C19:58],[3ED:274],[M14:224],[UDS:139])([LGN:60],[LGN:32],[DTK:180],[DTK:181],[C19:170],[KTK:73],[C19:44],[KTK:136],[KTK:178],[TSP:65],[C19:8],[KTK:45],[LGN:132],[C19:48],[KTK:196],[CHK:239],[10E:296],[DTK:121],[LGN:80],[DTK:80],[TSP:228],[C19:21],[C19:12],[KTK:58],[TSP:90],[C19:36],[C19:51],[TSB:36])([AKH:196],[C19:17],[KTK:198],[KTK:154])([GTC:213],[DST:21],[C19:9],[DGM:93],[FRF:46],[C19:11],[KTK:204])([C19:227],[WWK:132],[ELD:333],[ODY:319],[RAV:276],[M20:246],[CON:142],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[M19:251],[GRN:248],[RAV:278],[THB:251],[THB:251],[THB:251],[THB:251],[THB:251],[M20:248],[ORI:248],[C19:261],[KTK:238],[M19:254],[BFZ:245],[DIS:180],[WAR:274],[BFZ:249],[THB:252],[THB:252],[THB:252],[SCG:143],[M11:229],[GTC:248],[ELD:313],[M19:260],[ORI:252])([RTR:208])([M11:168],[WWK:99],[M13:170],[FRF:70],[RAV:89],[C19:19],[M11:189],[C19:34],[C19:183],[NPH:47],[GTC:204])
+LAYOUT SIDEBOARD:(1,1)(COLOR,true,50)|([C19:45])

@@ -1,0 +1,87 @@
+NAME:C19-Primal Genesis
+1 [AKH:1] Angel of Sanctions
+1 [C19:227] Ash Barrens
+1 [C19:38] Atla Palani, Nest Tender
+1 [NPH:103] Beast Within
+1 [M20:243] Blossoming Sands
+1 [RAV:275] Boros Garrison
+1 [BFZ:235] Cinder Glade
+1 [C19:1] Cliffside Rescuer
+1 [M19:173] Colossal Majesty
+1 [ELD:333] Command Tower
+1 [C19:2] Commander's Insignia
+1 [M11:168] Cultivate
+1 [BFZ:6] Desolation Twin
+1 [C19:3] Doomed Artisan
+1 [BFZ:144] Dragonmaster Outcast
+1 [RTR:123] Druid's Deliverance
+1 [ORI:174] Elemental Bond
+1 [DGM:68] Emmara Tandris
+1 [M20:246] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [WWK:99] Explore
+1 [M13:170] Farseek
+1 [C19:141] Feldon of the Third Path
+1 [FRF:99] Flamerush Rider
+8 [THB:254] Forest
+1 [NPH:109] Fresh Meat
+1 [C19:32] Full Flowering
+1 [M10:225] Gargoyle Castle
+1 [M15:283] Garruk's Packleader
+1 [M13:174] Garruk, Primal Hunter
+1 [C19:25] Ghired's Belligerence
+1 [GTC:121] Giant Adephage
+1 [ZEN:214] Graypelt Refuge
+1 [RTR:217] Growing Ranks
+1 [GPT:158] Gruul Turf
+1 [PLC:149] Harmonize
+1 [C19:26] Hate Mirage
+1 [AKH:138] Heart-Piercer Manticore
+1 [RAV:21] Hour of Reckoning
+1 [C19:55] Idol of Oblivion
+1 [ISD:19] Intangible Virtue
+1 [ALA:226] Jungle Shrine
+1 [ZEN:217] Kazandu Refuge
+1 [JUD:141] Krosan Verge
+1 [MRD:199] Lightning Greaves
+1 [C19:46] Marisi, Breaker of the Coil
+1 [SOM:175] Mimic Vat
+1 [ROE:197] Momentous Fall
+4 [THB:253] Mountain
+1 [C19:261] Myriad Landscape
+1 [ALA:180] Naya Charm
+1 [ALA:227] Naya Panorama
+1 [C19:33] Ohran Frostfang
+1 [MBS:15] Phyrexian Rebirth
+7 [THB:250] Plains
+1 [ZEN:178] Rampaging Baloths
+1 [M12:32] Roc Egg
+1 [ORI:250] Rogue's Passage
+1 [RTR:19] Rootborn Defenses
+1 [M20:250] Rugged Highlands
+1 [CHK:239] Sakura-Tribe Elder
+1 [C19:57] Scaretiller
+1 [SOI:227] Second Harvest
+1 [C19:35] Selesnya Eulogist
+1 [RAV:281] Selesnya Sanctuary
+1 [FRF:138] Shamanic Revelation
+1 [XLN:207] Slice in Twain
+1 [3ED:274] Sol Ring
+1 [C19:6] Song of the Worldsoul
+1 [MRD:246] Soul Foundry
+1 [M15:201] Soul of Zendikar
+1 [RTR:223] Sundering Growth
+1 [ODY:328] Sungrass Prairie
+1 [C19:50] Tahngarth, First Mate
+1 [C19:29] Tectonic Hellion
+1 [M11:229] Terramorphic Expanse
+1 [M13:193] Thragtusk
+1 [RTR:28] Trostani's Judgment
+1 [RTR:206] Trostani, Selesnya's Voice
+1 [RTR:207] Vitu-Ghazi Guildmage
+1 [C19:36] Voice of Many
+1 [RTR:209] Wayfaring Temple
+1 [KTK:31] Wingmate Roc
+SB: 1 [C19:42] Ghired, Conclave Exile
+LAYOUT MAIN:(1,9)(CMC,false,50)|([C19:227],[M20:243],[RAV:275],[BFZ:235],[ELD:333],[M20:246],[CON:142],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[M10:225],[ZEN:214],[GPT:158],[ALA:226],[ZEN:217],[JUD:141],[THB:253],[THB:253],[THB:253],[THB:253],[C19:261],[ALA:227],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[ORI:250],[M20:250],[RAV:281],[ODY:328],[M11:229])([BFZ:144],[C19:32],[3ED:274])([C19:1],[RTR:123],[WWK:99],[M13:170],[C19:25],[C19:55],[ISD:19],[MRD:199],[CHK:239],[RTR:223],[RTR:207])([NPH:103],[M19:173],[M11:168],[C19:3],[ORI:174],[C19:141],[SOM:175],[ALA:180],[M12:32],[RTR:19],[C19:35],[RTR:209])([C19:38],[C19:2],[NPH:109],[RTR:217],[PLC:149],[C19:26],[AKH:138],[C19:46],[ROE:197],[C19:57],[SOI:227],[XLN:207],[MRD:246],[C19:50],[RTR:206],[C19:36])([AKH:1],[FRF:99],[M15:283],[M13:174],[C19:33],[FRF:138],[M13:193],[KTK:31])([MBS:15],[ZEN:178],[C19:6],[M15:201],[RTR:28])([DGM:68],[GTC:121],[RAV:21],[C19:29])([BFZ:6])
+LAYOUT SIDEBOARD:(1,1)(COLOR,true,50)|([C19:42])

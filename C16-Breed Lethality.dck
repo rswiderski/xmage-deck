@@ -1,0 +1,86 @@
+NAME:C16-Breed Lethality
+1 [KTK:2] Abzan Falconer
+1 [CM2:150] Ancient Excavation
+1 [ALA:220] Arcane Sanctum
+1 [C19:227] Ash Barrens
+1 [BNG:157] Astral Cornucopia
+1 [DIS:170] Azorius Chancery
+1 [LGN:60] Bane of the Living
+1 [KTK:5] Brave the Sands
+1 [DGM:59] Bred for the Hunt
+1 [AVR:10] Cathars' Crusade
+1 [SHM:248] Cauldron of Souls
+1 [AVR:171] Champion of Lambholt
+1 [FRF:8] Citadel Siege
+1 [ELD:333] Command Tower
+1 [C19:212] Commander's Sphere
+1 [RTR:152] Corpsejack Menace
+1 [CM2:183] Crystalline Crawler
+1 [CM2:23] Custodi Soulbinders
+1 [M14:207] Darksteel Ingot
+1 [ODY:319] Darkwater Catacombs
+1 [CM2:39] Deepglow Skate
+1 [GRN:37] Disdainful Stroke
+1 [TSP:271] Dreadship Reef
+1 [CM2:26] Duelist's Heritage
+1 [KTK:174] Duneblast
+1 [FRF:12] Elite Scaleguard
+1 [DTK:222] Enduring Scalelord
+1 [M20:246] Evolving Wilds
+1 [CON:142] Exotic Orchard
+1 [GTC:162] Fathom Mage
+1 [9ED:297] Fellwar Stone
+1 [MOR:62] Festercreep
+7 [THB:254] Forest
+1 [SCG:120] Forgotten Ancient
+1 [CM2:157] Ghave, Guru of Spores
+1 [RAV:278] Golgari Rot Farm
+1 [RAV:262] Golgari Signet
+1 [CM2:43] Grip of Phyresis
+1 [KTK:133] Hardened Scales
+1 [CM2:11] Ikra Shidiqi, the Usurper
+1 [DTK:191] Inspiring Call
+1 [CM2:12] Ishai, Ojutai Dragonspeaker
+4 [THB:251] Island
+1 [CSP:130] Juniper Order Ranger
+1 [M14:181] Kalonian Hydra
+1 [ORI:105] Languish
+1 [CM2:44] Manifold Insights
+1 [GTC:176] Master Biomancer
+1 [GTC:177] Merciless Eviction
+1 [CM2:161] Migratory Route
+1 [SHM:143] Mirrorweave
+1 [RNA:192] Mortify
+1 [MOR:147] Murmuring Bosk
+1 [RAV:98] Necroplasm
+1 [CM2:259] Opal Palace
+1 [KTK:238] Opulent Palace
+1 [CM2:34] Orzhov Advokist
+1 [GPT:155] Orzhov Signet
+5 [THB:250] Plains
+1 [DGM:93] Putrefy
+1 [MOR:22] Reveillark
+1 [CM2:13] Reyhan, Last of the Abzan
+1 [KTK:241] Sandsteppe Citadel
+1 [M14:195] Scavenging Ooze
+1 [ALA:229] Seaside Citadel
+1 [DIS:166] Simic Signet
+1 [3ED:274] Sol Ring
+1 [JOU:141] Solidarity of Heroes
+1 [EVE:162] Spitting Image
+1 [CM2:36] Sublime Exhalation
+1 [ODY:328] Sungrass Prairie
+5 [THB:252] Swamp
+1 [CM2:167] Sylvan Reclamation
+1 [SCG:143] Temple of the False God
+1 [M11:229] Terramorphic Expanse
+1 [NPH:47] Tezzeret's Gambit
+1 [SOM:47] Thrummingbird
+1 [KTK:59] Treasure Cruise
+1 [KTK:156] Tuskguard Captain
+1 [10E:362] Underground River
+1 [DGM:115] Vorel of the Hull Clade
+1 [RAV:238] Vulturous Zombie
+SB: 1 [CM2:10] Atraxa, Praetors' Voice
+LAYOUT MAIN:(1,9)(CMC,false,50)|([ALA:220],[C19:227],[BNG:157],[DIS:170],[ELD:333],[ODY:319],[TSP:271],[M20:246],[CON:142],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[THB:254],[RAV:278],[THB:251],[THB:251],[THB:251],[THB:251],[MOR:147],[CM2:259],[KTK:238],[THB:250],[THB:250],[THB:250],[THB:250],[THB:250],[KTK:241],[ALA:229],[ODY:328],[THB:252],[THB:252],[THB:252],[THB:252],[THB:252],[SCG:143],[M11:229],[10E:362])([KTK:133],[3ED:274])([KTK:5],[GRN:37],[9ED:297],[MOR:62],[RAV:262],[GPT:155],[M14:195],[DIS:166],[JOU:141],[SOM:47])([KTK:2],[DGM:59],[AVR:171],[C19:212],[M14:207],[CM2:26],[CM2:43],[DTK:191],[CM2:44],[RNA:192],[RAV:98],[CM2:34],[DGM:93],[CM2:13],[KTK:156],[DGM:115])([CM2:150],[LGN:60],[FRF:8],[RTR:152],[CM2:183],[CM2:23],[GTC:162],[SCG:120],[CM2:12],[ORI:105],[GTC:176],[SHM:143],[NPH:47])([AVR:10],[SHM:248],[CM2:39],[FRF:12],[CM2:157],[CM2:11],[CSP:130],[M14:181],[CM2:161],[MOR:22],[CM2:167],[RAV:238])([DTK:222],[GTC:177],[EVE:162])([KTK:174],[CM2:36])([KTK:59])
+LAYOUT SIDEBOARD:(1,1)(COLOR,true,50)|([CM2:10])
